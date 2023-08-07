@@ -22,31 +22,31 @@
 (declare imprimir)                        ; NO TOCAR
 (declare desambiguar-comas)               ; NO TOCAR
 
-(declare evaluar)                         ; COMPLETAR falta READ RESTORE CLEAR LIST LET
-(declare aplicar)                         ; COMPLETAR 
+(declare evaluar)                         ; COMPLETADO 
+(declare aplicar)                         ; COMPLETADO 
 
 (declare prefijos-validos?)
 
-(declare palabra-reservada?)              ; IMPLEMENTAR
-(declare operador?)                       ; IMPLEMENTAR
-(declare anular-invalidos)                ; IMPLEMENTAR 
-(declare cargar-linea)                    ; IMPLEMENTAR 
-(declare expandir-nexts)                  ; IMPLEMENTAR 
-(declare dar-error)                       ; IMPLEMENTAR
-(declare variable-float?)                 ; IMPLEMENTAR
-(declare variable-integer?)               ; IMPLEMENTAR
-(declare variable-string?)                ; IMPLEMENTAR
-(declare contar-sentencias)               ; IMPLEMENTAR
-(declare buscar-lineas-restantes)         ; IMPLEMENTAR 
-(declare continuar-linea)                 ; IMPLEMENTAR 
-(declare extraer-data)                    ; IMPLEMENTAR 
-(declare ejecutar-asignacion)             ; IMPLEMENTAR
-(declare preprocesar-expresion)           ; IMPLEMENTAR
-(declare desambiguar)                     ; IMPLEMENTAR
-(declare precedencia)                     ; IMPLEMENTAR
-(declare aridad)                          ; IMPLEMENTAR
-(declare eliminar-cero-decimal)           ; IMPLEMENTAR
-(declare eliminar-cero-entero)            ; IMPLEMENTAR
+(declare palabra-reservada?)              ; IMPLEMENTADO
+(declare operador?)                       ; IMPLEMENTADO
+(declare anular-invalidos)                ; IMPLEMENTADO 
+(declare cargar-linea)                    ; IMPLEMENTADO 
+(declare expandir-nexts)                  ; IMPLEMENTADO 
+(declare dar-error)                       ; IMPLEMENTADO
+(declare variable-float?)                 ; IMPLEMENTADO
+(declare variable-integer?)               ; IMPLEMENTADO
+(declare variable-string?)                ; IMPLEMENTADO
+(declare contar-sentencias)               ; IMPLEMENTADO
+(declare buscar-lineas-restantes)         ; IMPLEMENTADO 
+(declare continuar-linea)                 ; IMPLEMENTADO 
+(declare extraer-data)                    ; IMPLEMENTADO 
+(declare ejecutar-asignacion)             ; IMPLEMENTADO
+(declare preprocesar-expresion)           ; IMPLEMENTADO
+(declare desambiguar)                     ; IMPLEMENTADO
+(declare precedencia)                     ; IMPLEMENTADO
+(declare aridad)                          ; IMPLEMENTADO
+(declare eliminar-cero-decimal)           ; IMPLEMENTADO
+(declare eliminar-cero-entero)            ; IMPLEMENTADO
 
 
 
